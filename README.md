@@ -1,3 +1,3 @@
 # credit card fraud detection
  
->**NOTE**: The project is still in progress
+> **NOTE**: The project is still in progress
