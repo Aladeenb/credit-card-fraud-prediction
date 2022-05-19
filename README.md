@@ -1,4 +1,4 @@
-# credit card fraud detection
+# credit card fraud prediction
  
 > **NOTE**: The project is still in progress
 
